@@ -16,8 +16,8 @@ Ejecuté directamente:
 
 Por si el virus estaba dormido:
 
-C:\Users\jdelp\AppData\Local\Android\Sdk\platform-tools>adb shell am start -n wocwvy.czyxoxmbauu.slsa/.ncec.bdxyqqt
+$\platform-tools>adb shell am start -n wocwvy.czyxoxmbauu.slsa/.ncec.bdxyqqt
 
 y fakenet de fondo con la configuración.
 
-PS C:\TFG-LAB\fakenet3.5> .\fakenet.exe -c configs\anubis_sws.ini
+$\fakenet3.5> .\fakenet.exe -c configs\anubis_sws.ini
