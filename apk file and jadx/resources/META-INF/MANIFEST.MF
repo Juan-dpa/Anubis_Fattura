@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA1-Digest: T/5rufxEy3GcmHlDiCY0uslCrb0=
+
+Name: res/layout/uogqz.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/mipmap-xhdpi/ic_launcher.png
+SHA1-Digest: dcr0G0r7FPsX/epIMGYdQaZeFBU=
+
+Name: res/layout/khay.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/msbaqmwj.xml
+SHA1-Digest: R1XxgBHR0watlg4E2+PdaNgTDbE=
+
+Name: res/layout/cxsxkzvhpszz.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/gvole.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/uppemzfldmy.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/fsh.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/hdewequglvxw.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/struup.xml
+SHA1-Digest: R1XxgBHR0watlg4E2+PdaNgTDbE=
+
+Name: res/mipmap-mdpi/ic_launcher.png
+SHA1-Digest: dcr0G0r7FPsX/epIMGYdQaZeFBU=
+
+Name: res/mipmap-xxxhdpi/ic_launcher.png
+SHA1-Digest: dcr0G0r7FPsX/epIMGYdQaZeFBU=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 71Q6Rn2DDZl1zPDVaaeEHItd+Yg=
+
+Name: res/layout/bqmazs.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/dffuhhyqi.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/drawable/qq.jpg
+SHA1-Digest: KvTAT1A/RXUyfUPA6WkqplZWTRA=
+
+Name: res/mipmap-xxhdpi/ic_launcher.png
+SHA1-Digest: dcr0G0r7FPsX/epIMGYdQaZeFBU=
+
+Name: res/layout/loevlioof.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/ipmxswvs.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/xml/mihaf.xml
+SHA1-Digest: 7aAghtWOTFyOJuukHMx8C19d/KE=
+
+Name: res/mipmap-hdpi/ic_launcher.png
+SHA1-Digest: dcr0G0r7FPsX/epIMGYdQaZeFBU=
+
+Name: res/drawable/im.png
+SHA1-Digest: Y2nO96F2ievfagLnFnBsXy82Yog=
+
+Name: resources.arsc
+SHA1-Digest: Zm94X8UHopDGukQgTXeEANJyHAI=
+
+Name: classes.dex
+SHA1-Digest: vsymSnEH269noTsiJGL9xgRMgIU=
+
+Name: res/layout/etiadhbtsl.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/myvauvdbuzuyflia.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
